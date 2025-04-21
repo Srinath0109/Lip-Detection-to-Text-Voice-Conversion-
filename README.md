@@ -3,6 +3,8 @@
 # Lip Reading System
 
 A real-time lip reading application that recognizes spoken words through webcam input.
+<img width="1440" alt="Screenshot 2025-04-21 at 11 18 05 AM" src="https://github.com/user-attachments/assets/538052e8-9f10-4bb6-a93d-209a75a22eda" />
+
 
 ## Features
 
@@ -12,6 +14,9 @@ A real-time lip reading application that recognizes spoken words through webcam 
 - Visual feedback with facial landmarks
 - Text-to-speech output
 - Progress tracking for training samples
+
+  ![image](https://github.com/user-attachments/assets/36ff5498-7632-455d-89db-4ed0c2f49ba3)
+
 
 ## Prerequisites
 
